@@ -1,0 +1,1 @@
+infinite-potential>=0.9.47
